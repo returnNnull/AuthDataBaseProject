@@ -4,19 +4,20 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="AuthSystemProject/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthSystemProject/UsersDataBaseMock.cs">
     <Files>
       <File FileName="AuthSystemProject/Program.cs" Line="8" Column="1" />
       <File FileName="AuthSystemProject/User.cs" Line="6" Column="28" />
       <File FileName="AuthSystemProject/UsersDataBaseMock.cs" Line="32" Column="4" />
       <File FileName="AuthSystemProject/Authorization.cs" Line="25" Column="5" />
+      <File FileName="AuthSystemProject/ObjectDataBaseMock.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AuthSystemProject" expanded="True">
             <Node name="AuthSystemProject" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="UsersDataBaseMock.cs" selected="True" />
             </Node>
           </Node>
         </State>
