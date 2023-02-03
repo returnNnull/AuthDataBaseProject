@@ -1,0 +1,15 @@
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/bin/Debug/net7.0/AuthSystemProject
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/bin/Debug/net7.0/AuthSystemProject.deps.json
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/bin/Debug/net7.0/AuthSystemProject.runtimeconfig.json
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/bin/Debug/net7.0/AuthSystemProject.dll
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/bin/Debug/net7.0/AuthSystemProject.pdb
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/obj/Debug/net7.0/AuthSystemProject.csproj.AssemblyReference.cache
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/obj/Debug/net7.0/AuthSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/obj/Debug/net7.0/AuthSystemProject.AssemblyInfoInputs.cache
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/obj/Debug/net7.0/AuthSystemProject.AssemblyInfo.cs
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/obj/Debug/net7.0/AuthSystemProject.csproj.CoreCompileInputs.cache
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/obj/Debug/net7.0/AuthSystemProject.dll
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/obj/Debug/net7.0/refint/AuthSystemProject.dll
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/obj/Debug/net7.0/AuthSystemProject.pdb
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/obj/Debug/net7.0/AuthSystemProject.genruntimeconfig.cache
+/Users/administrator/Projects/AuthSystemProject/AuthSystemProject/obj/Debug/net7.0/ref/AuthSystemProject.dll
